@@ -84,7 +84,7 @@ def main():
     df.to_csv('ShipComponents.csv', index=False)
 
 
-#helper function to print our URL & error if requests fail.
+#helper function to print our error if requests fail.
 def get_with_err_output(url):
     try:
         response = requests.get(url)
