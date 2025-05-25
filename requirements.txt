@@ -9,6 +9,7 @@ pytz==2025.2
 requests==2.32.3
 six==1.17.0
 soupsieve==2.7
+tqdm==4.67.1
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
