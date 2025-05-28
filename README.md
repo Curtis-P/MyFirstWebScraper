@@ -1,6 +1,6 @@
 # Shopping-Path-Scraper
 
-A program to scrape data for where ship components are sold at.
+A program to scrape data for where ship components are sold at from finder.cstone.space.
 ## Installation
 
 ```bash
